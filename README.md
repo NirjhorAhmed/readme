@@ -1,9 +1,9 @@
 # 💫 About Me:
 I’m a Computer Science and Engineering (CSE) student at the Islamic University of Technology (IUT). I'm passionate about technology, problem-solving, and continuous learning in programming and development. I'm on a journey to become a skilled developer and contribute positively to the tech community.I'm a passionate software developer with a knack for problem-solving and a love for learning new technologies. Welcome to my GitHub profile!<br><br>🚀 About Me<br>🔭 I’m currently working on various web development projects.<br>🌱 I’m currently learning more about cloud computing and DevOps practices.<br>👯 I’m looking to collaborate on open-source projects.<br>🤔 I’m looking for help with integrating advanced AI models into applications.<br>💬 Ask me about web development, JavaScript, Python, and machine learning.<br>:tools: Skills & Interests<br>Languages: C, C++, JavaScript<br>Web Development: HTML, CSS, JavaScript<br>Tools: Git, VSCode<br>Areas of Interest: Backend Development, Data Structures, Algorithms
-🌱 Currently Learning
-I'm deepening my knowledge in advanced programming concepts, problem-solving, and backend development.
+<br>🌱 Currently Learning
+<br>I'm deepening my knowledge in advanced programming concepts, problem-solving, and backend development.
 
-Thanks for stopping by! Have a great day! 😄
+<br>Thanks for stopping by! Have a great day! 😄
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Nirjhor Ahmed) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/Nirjhor Ahmed) 
